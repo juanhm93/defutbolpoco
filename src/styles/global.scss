@@ -1,7 +1,9 @@
 @import 'vars';
 
 body {
- background-color: black;
+ background-color: $bg;
+ color: #000;
+ font-family: 'Roboto', sans-serif;
 }
 
 h1 {
